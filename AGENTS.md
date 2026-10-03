@@ -19,6 +19,6 @@ Live: https://unclebill-spec.github.io/maine-explorer/ · repo unclebill-spec/ma
 ## Sources and known limits
 - RN wages: Maine DOL CWRI OEWS May 2025 (`Maine-AllAreas.xlsx`), county estimates with metro/nonmetro fallback. The BLS API was over its daily limit and bls.gov returns 403 to the box.
 - Schools: SEDA 2025.1 district means for 2019 (latest Maine year in SEDA), each school graded by its district vs Maine (A ≥ +0.5 grade levels … F < −0.5). Maine DOE's own assessment export returned HTTP 429 and Ed Data Express sits behind a bot check, so grades are dated and district-level. Lewiston has no SEDA year after 2014.
-- Hospitals: `/workspace/maine/data/hospitals.json` research (31) + CMS + 11 NH border hospitals (Dartmouth Hitchcock Level I, Elliot / Portsmouth / Concord Level II, several Level III). Maine trauma: Maine Medical Center Level I, Eastern Maine Medical Center Level II, Level III centers per ACS.
+- Hospitals: `/workspace/maine/data/hospitals.json` research (31) + CMS + 11 NH border hospitals (Dartmouth Hitchcock Level I, Elliot / Portsmouth / Concord Level II, several Level III). Maine trauma: only Maine Medical Center (Level I) and Eastern Maine Medical Center (Level II) are ACS-verified (CMMC ended its Level III); all 7 Level III pins are in NH.
 - Parks etc. come from Wikidata, not OSM (Overpass was unreachable from the box in Oct 2026), so coverage is thinner than OSM.
 - Home searches use the KY default caps ($300k–$500k 5+ acres, $425k 1+ acre, $325k near-hospital); no `STATE["caps"]` entry. Ask Bill before raising them.
