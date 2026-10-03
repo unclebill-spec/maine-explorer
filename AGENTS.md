@@ -22,3 +22,8 @@ Live: https://unclebill-spec.github.io/maine-explorer/ · repo unclebill-spec/ma
 - Hospitals: `/workspace/maine/data/hospitals.json` research (31) + CMS + 11 NH border hospitals (Dartmouth Hitchcock Level I, Elliot / Portsmouth / Concord Level II, several Level III). Maine trauma: only Maine Medical Center (Level I) and Eastern Maine Medical Center (Level II) are ACS-verified (CMMC ended its Level III); all 7 Level III pins are in NH.
 - Parks etc. come from Wikidata, not OSM (Overpass was unreachable from the box in Oct 2026), so coverage is thinner than OSM.
 - Home searches use the KY default caps ($300k–$500k 5+ acres, $425k 1+ acre, $325k near-hospital); no `STATE["caps"]` entry. Ask Bill before raising them.
+
+## Ski areas + notable peaks (Oct 3, 2026)
+24 ski areas and 39 peaks, from explorer/mtn.json and explorer/img/mtn/. These are shared app files from KY; full notes are in /workspace/kentucky/explorer/AGENTS.md.
+- build.py has the mtn_build hook (`mtn_build.add(data)` before `write_split`, then `mtn_build.write_detail(OUT)`). Keep it if build.py is regenerated, or rerun `/workspace/mtn/scripts/hook_build.py /workspace/maine`.
+- Rebuild the data with `/workspace/mtn/scripts/make_state.py ME`. Test with `/workspace/mtn/test_mtn.py BASE TAG SKI_ID PEAK_ID`.

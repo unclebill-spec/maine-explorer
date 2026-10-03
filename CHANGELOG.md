@@ -3,6 +3,7 @@
 Newest first. Times are ET.
 
 ## 2026-10-03
+- 14:07 ET: Add ski areas and notable mountain peaks layers: ski/peak icons, cards with trails, lifts, vertical, snowfall, season, ticket and pass prices (season + source labeled), discounts, special days; peaks with elevation, prominence, activities, estimated summit weather; Ski and Peaks solo buttons, Map key, zoom tiers, share links #ski= / #peak=
 - 12:53 ET: State switcher: add Vermont (KY / MA / ME / TN / VT); manifest short name ME Explorer
 - 12:23 ET: Maine Phase 4: attractions (57: zoos/amusement, water park, aquarium, museums, state-park and Acadia campgrounds), 9 airports, 21 businesses for sale under $1M and 6 odd buildings under $600k (Crexi), more waterfalls (19) and trails (19)
 - 12:08 ET: Maine Phase 3: jobs. Permanent RN jobs (blue hats; 438 jobs, 357 pass the default filter) from MaineGeneral, Covenant, Northern Light, York, Prime/CMH and independent hospitals; travel RN jobs (red hats; 165 at 18 hospitals from Vivian + Advantis) with the same exclusions as the other maps
