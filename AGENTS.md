@@ -30,3 +30,4 @@ Live: https://unclebill-spec.github.io/maine-explorer/ · repo unclebill-spec/ma
 
 ## Border items (Oct 3, 2026)
 `explorer/border.json` (from /workspace/border/scripts/make_border.py) adds pins within ~15 mi outside the state line, tagged with their state (`bst`), excluded from town/county stats. Shared code: border_build.py + build.py hook + app.js. Details and regeneration: KY explorer/AGENTS.md 'Border items'.
+- Oct 3, 2026: purple bargain star on the Bargain filter button etc. (shared app.js/style.css; KY explorer/AGENTS.md 'Purple bargain star everywhere').
