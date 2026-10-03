@@ -1,6 +1,6 @@
 {
   "name": "Maine Explorer",
-  "short_name": "MA Explorer",
+  "short_name": "ME Explorer",
   "description": "Maine hospitals, schools, towns, homes and RN jobs on one map.",
   "start_url": "./index.html",
   "scope": "./",
