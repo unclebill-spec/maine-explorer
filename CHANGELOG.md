@@ -3,6 +3,7 @@
 Newest first. Times are ET.
 
 ## 2026-10-03
+- 14:40 ET: Purple bargain icon (pins, groups, Map key, Deals pill); bottom Top 10 pills show exactly 3 whole buttons and snap one button or one page at a time; right-side filter buttons scroll with the mouse wheel and wheel events over them no longer zoom the map
 - 14:07 ET: Add ski areas and notable mountain peaks layers: ski/peak icons, cards with trails, lifts, vertical, snowfall, season, ticket and pass prices (season + source labeled), discounts, special days; peaks with elevation, prominence, activities, estimated summit weather; Ski and Peaks solo buttons, Map key, zoom tiers, share links #ski= / #peak=
 - 12:53 ET: State switcher: add Vermont (KY / MA / ME / TN / VT); manifest short name ME Explorer
 - 12:23 ET: Maine Phase 4: attractions (57: zoos/amusement, water park, aquarium, museums, state-park and Acadia campgrounds), 9 airports, 21 businesses for sale under $1M and 6 odd buildings under $600k (Crexi), more waterfalls (19) and trails (19)
