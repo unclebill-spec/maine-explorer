@@ -3,6 +3,7 @@
 Newest first. Times are ET.
 
 ## 2026-10-04
+- 07:37 ET: State switcher: add New Hampshire (10 maps); border items now come from the New Hampshire map (NH homes and RN jobs at this map's caps)
 - 06:20 ET: State switcher: add Utah (9 maps)
 
 ## 2026-10-03

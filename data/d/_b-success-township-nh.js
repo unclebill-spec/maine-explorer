@@ -1,0 +1,1 @@
+KYXD("_b-success-township-nh",{"activity":{"bnh-anderson-dam-success-township":{"src":"http://www.wikidata.org/entity/Q34802248","th":{"u":"img/b/nh/thumbs/activity/anderson-dam-success-township.jpg","k":"satellite"},"bst":"NH","bmi":5.7,"bco":"Success Township, NH"}}});
