@@ -2,6 +2,9 @@
 
 Newest first. Times are ET.
 
+## 2026-10-04
+- 06:20 ET: State switcher: add Utah (9 maps)
+
 ## 2026-10-03
 - 20:59 ET: State switcher: add Idaho (8 maps)
 - 18:25 ET: State switcher: Montana and Wyoming added
