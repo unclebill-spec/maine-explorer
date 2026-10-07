@@ -2,6 +2,9 @@
 
 Newest first. Times are ET.
 
+## 2026-10-07
+- 17:10 ET: Listings refresh: +7 new (1 cabin), -6 sold/off-market, 21 price drops; 50+ ac 120 -> 124 (+5 new lots, Danforth lot gone); waterfalls 3; bargains refreshed (1 in, 1 out); 434 perm RN jobs (2026-10-07)
+
 ## 2026-10-05
 - 23:06 ET: Add North Carolina to the state switcher (new North Carolina Explorer); shared Anna code: per-state wording + estimated-pay labels
 
