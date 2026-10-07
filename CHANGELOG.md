@@ -3,6 +3,7 @@
 Newest first. Times are ET.
 
 ## 2026-10-07
+- 17:46 ET: Target stores layer: every Target in the state (6, Target's own store directory) plus 2 within ~15 mi over the line (NH 2; tagged, not counted in stats). Small red bullseye pins (grouped, faint dots when zoomed out), right-side 'Target' button, store cards with address, phone, regular hours and services, share links #target=<store number>, and the nearest Target (OSRM free-flow drive time) in every property card's Nearby section.
 - 17:10 ET: Listings refresh: +7 new (1 cabin), -6 sold/off-market, 21 price drops; 50+ ac 120 -> 124 (+5 new lots, Danforth lot gone); waterfalls 3; bargains refreshed (1 in, 1 out); 434 perm RN jobs (2026-10-07)
 
 ## 2026-10-05
