@@ -3,6 +3,7 @@
 Newest first. Times are ET.
 
 ## 2026-10-07
+- 20:55 ET: Active filter on top: whatever right-side button or Top 10 list is selected (Target, Bargain, 50+ ac, Cave, Falls, Jobs, Anna's buttons, a Top 10 list...) now draws its pins 1.4x larger (its groups 1.15x) and above every other pin; always-on pins (trauma centers, airports, cities...) stay visible but smaller (0.72x) and underneath while it is on. Turning the filter off restores the normal map exactly (shared app code, same on every map).
 - 17:46 ET: Target stores layer: every Target in the state (6, Target's own store directory) plus 2 within ~15 mi over the line (NH 2; tagged, not counted in stats). Small red bullseye pins (grouped, faint dots when zoomed out), right-side 'Target' button, store cards with address, phone, regular hours and services, share links #target=<store number>, and the nearest Target (OSRM free-flow drive time) in every property card's Nearby section.
 - 17:10 ET: Listings refresh: +7 new (1 cabin), -6 sold/off-market, 21 price drops; 50+ ac 120 -> 124 (+5 new lots, Danforth lot gone); waterfalls 3; bargains refreshed (1 in, 1 out); 434 perm RN jobs (2026-10-07)
 
