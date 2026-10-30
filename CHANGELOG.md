@@ -3,6 +3,7 @@
 Newest first. Times are ET.
 
 ## 2026-10-30
+- 16:46 ET: Listings refresh r19: +0 new, -1 sold/off-market, 3 price drops, 3 price changes; bigland/cavefalls/perm refreshed (r19-2026-10-30)
 - 05:28 ET: Listings refresh r18: +0 new, -0 sold/off-market, 7 price drops, 7 price changes; bigland/cavefalls/perm refreshed (r18-2026-10-30)
 
 ## 2026-10-28
