@@ -1,3 +1,5 @@
+> **Before any work here:** read /workspace/RESOURCES.md (team rules), your /workspace/bot-tools/<slug>.md tool list, and the game order in /workspace/NAMES.md. (Will, Nov 1, 2026)
+
 # Maine Explorer — agent handoff
 
 Static Leaflet map for a nurse household, the same shared app as the Kentucky, Tennessee and Massachusetts Explorers (`app.js`, `areas.js`, `perm.js`, `profiles.js`, `extras.js`, `sw.js` are byte-identical copies of `/workspace/kentucky/explorer/*`; edit them there and copy to every state). Maine-specific settings live only in `build.py` `STATE`.
