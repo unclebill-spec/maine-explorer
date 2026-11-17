@@ -2,6 +2,9 @@
 
 Newest first. Times are ET.
 
+## 2026-11-17
+- 03:58 ET: Listings refresh r25: +0 new, -2 sold/off-market, 5 price drops, 5 price changes; bigland/cavefalls/perm refreshed (r25-2026-11-16)
+
 ## 2026-11-16
 - 11:15 ET: State switcher: add Nebraska, South Dakota, North Dakota
 
